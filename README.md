@@ -1,8 +1,8 @@
 # NLP-Hand-s-ON
 # NLP_1 :
-downloaded the nltk
-learnt about corpus(brown / inaugral)
-frequency distribution
+1.downloaded the nltk
+2.learnt about corpus(brown / inaugral)
+3.frequency distribution
 
 # NLP_2 :
 stopwords
